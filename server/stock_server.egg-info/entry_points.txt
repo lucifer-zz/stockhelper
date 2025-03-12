@@ -1,0 +1,2 @@
+[console_scripts]
+stock-server = server.server:main
